@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Romanuch4/TodoList/static/css/main.748a58a9.chunk.css",
+    "main.js": "/Romanuch4/TodoList/static/js/main.03ab0ed6.chunk.js",
+    "main.js.map": "/Romanuch4/TodoList/static/js/main.03ab0ed6.chunk.js.map",
+    "runtime-main.js": "/Romanuch4/TodoList/static/js/runtime-main.e0f58c68.js",
+    "runtime-main.js.map": "/Romanuch4/TodoList/static/js/runtime-main.e0f58c68.js.map",
+    "static/js/2.6353dbf7.chunk.js": "/Romanuch4/TodoList/static/js/2.6353dbf7.chunk.js",
+    "static/js/2.6353dbf7.chunk.js.map": "/Romanuch4/TodoList/static/js/2.6353dbf7.chunk.js.map",
+    "index.html": "/Romanuch4/TodoList/index.html",
+    "precache-manifest.3f7d45154cffb6afdb957b16b192e4cf.js": "/Romanuch4/TodoList/precache-manifest.3f7d45154cffb6afdb957b16b192e4cf.js",
+    "service-worker.js": "/Romanuch4/TodoList/service-worker.js",
+    "static/css/main.748a58a9.chunk.css.map": "/Romanuch4/TodoList/static/css/main.748a58a9.chunk.css.map",
+    "static/js/2.6353dbf7.chunk.js.LICENSE.txt": "/Romanuch4/TodoList/static/js/2.6353dbf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0f58c68.js",
+    "static/js/2.6353dbf7.chunk.js",
+    "static/css/main.748a58a9.chunk.css",
+    "static/js/main.03ab0ed6.chunk.js"
+  ]
+}
