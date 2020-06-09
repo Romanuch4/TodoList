@@ -1,12 +1,12 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import { Home } from './components/home/home';
 import { CreateTask } from './components/create-task/create-task';
 import { CreateList } from './components/create-list/create-list';
 
 const App = React.memo(({ listData, listCategories, wantsToEdit, showWindowAC, doneSomeListAC, createNewTaskAC, finishCreateAC, isfinishCreate, deleteTaskAC, createNewListAC }) => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="app">
         <Switch>
           <Route path="/" exact render={() => <Home
@@ -30,7 +30,7 @@ const App = React.memo(({ listData, listCategories, wantsToEdit, showWindowAC, d
           />} />
         </Switch>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 });
 
