@@ -1,0 +1,34 @@
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top__title {
+  font-size: 32px;
+  line-height: 41px;
+  letter-spacing: 0.01em;
+  color: #252A31;
+  padding: 16px 0 16px 30px;
+}
+
+.top__nav {
+  display: flex;
+  padding-right: 10px;
+}
+
+.top__nav:hover {
+  cursor: pointer;
+}
+
+.top__nav__item {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #006CFF;
+  margin-right: 3px;
+}
+
+.top__nav__item:last-child {
+  margin-right: 0px;
+}

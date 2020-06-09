@@ -1,0 +1,27 @@
+.categories__item {
+  border-radius: 10px;
+  padding-left: 16px;
+  padding-top: 12px;
+  padding-bottom: 13px;
+  max-width: 260px;
+  margin-bottom: 8px;
+}
+
+.item__title {
+  font-size: 19px;
+  line-height: 23px;
+  color: #252A31;
+}
+
+.item__p {
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: -0.337647px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  margin-top: 4px;
+}
+
+.item__pColor {
+  color: #252A31;
+}

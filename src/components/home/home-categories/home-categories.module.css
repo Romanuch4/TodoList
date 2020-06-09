@@ -1,0 +1,14 @@
+.categories {
+  padding-left: 40px;
+  padding-top: 44px;
+}
+
+.categories__title {
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: -0.385882px;
+  color: #252A31;
+  mix-blend-mode: normal;
+  opacity: 0.3;
+  margin-bottom: 14px;
+}
